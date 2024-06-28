@@ -1,0 +1,209 @@
+:root {
+  --team-color: #c3c3c3;
+  --dark-color: #000000;
+  --our-color: #797979;
+  --member-color: #c6bdbd;
+  --button-color: #19068C;
+  --a-color: #FFFFFF;
+}
+.team {
+  width: 171px;
+  height: 18px;
+  font-size: 20px;
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-weight: 400;
+  color: var(--team-color);
+  margin: 0 auto;
+  margin-top: 45px;
+}
+.meet {
+  width: 357px;
+  height: 63px;
+  font-size: 50.31px;
+  font-weight: 700;
+  font-family: "Plus Jakarta Sans", sans-serif;
+  color: var(--dark-color);
+  margin: 0 auto;
+  margin-top: 23px;
+}
+.professional {
+  height: 32px;
+  width: 517px;
+  font-size: 25px;
+  font-weight: 500;
+  font-family: "Plus Jakarta Sans", sans-serif;
+  color: var(--our-color);
+  margin: 0 auto;
+  margin-top: 20px;
+}
+.div-uni{
+    margin-left:650px ;
+    margin-top: 60px;
+}
+.button-a{
+    width:103.71px ;
+    height:39.42px ;
+    border-radius: 8.64px;
+    background-color: #19068C;
+    border: none;
+}
+.about{
+    text-decoration: none;
+    color:var(--a-color) ;
+    width: 66px;
+    height:19px ;
+    font-size: 15.39px;
+    font-weight: 500;
+    font-family: "Plus Jakarta Sans", sans-serif;
+}
+.contact-a{
+    width: 99.71px;
+    height: 39.42px;
+    border-radius: 8.64px;
+    border: 0.79px solid #B1B1B1;
+    margin-left: 25px;
+}
+.contact{
+    text-decoration: none;
+    color: var(--our-color);
+    width:62px ;
+    height:19px ;
+    font-size:15.39px ;
+    font-weight:500 ;
+    font-family: "Plus Jakarta Sans", sans-serif;
+}
+.border-div{
+    width:249px ;
+    height:352px ;
+    border-radius: 21px;
+    border: 0.87px solid #C3C3C3;
+    margin-left: 100px;
+    margin-top: 50px;
+    display: inline-block;
+}
+.img-1{
+    width: 249px;
+    height: 207px;
+    border-radius: 21px;
+}
+.train{
+    width: 96px;
+    height: 18px;
+    font-size: 15px;
+    font-weight: 300;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    color: #c6bdbd;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.name-1{
+    width: 146px;
+    height: 28px;
+    font-size:22px ;
+    font-weight:300 ;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.border-div2{
+    width:249px ;
+    height:352px ;
+    border-radius: 21px;
+    border: 0.87px solid #C3C3C3;
+    margin-left: 50px;
+    margin-top: 50px;
+    display: inline-block;
+}
+.img-2{
+    width: 249px;
+    height: 207px;
+    border-radius: 21px;
+}
+.assistant{
+    width: 96px;
+    height: 18px;
+    font-size: 15px;
+    font-weight: 300;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    color: #c6bdbd;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.name-2{
+    width: 146px;
+    height: 28px;
+    font-size:22px ;
+    font-weight:300 ;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.border-div3{
+    width:249px ;
+    height:352px ;
+    border-radius: 21px;
+    border: 0.87px solid #C3C3C3;
+    margin-left: 50px;
+    margin-top: 50px;
+    display: inline-block;
+}
+.img-3{
+    width: 249px;
+    height: 207px;
+    border-radius: 21px;
+}
+.sales{
+    width: 96px;
+    height: 18px;
+    font-size: 15px;
+    font-weight: 300;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    color: #c6bdbd;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.name-3{
+    width: 186px;
+    height: 28px;
+    font-size:22px ;
+    font-weight:300 ;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.border-div4{
+    width:249px ;
+    height:352px ;
+    border-radius: 21px;
+    border: 0.87px solid #C3C3C3;
+    margin-left: 50px;
+    margin-top: 50px;
+  display: inline-block;
+}
+.img-4{
+    width: 249px;
+    height: 207px;
+    border-radius: 21px;
+}
+.nurse{
+    width: 96px;
+    height: 18px;
+    font-size: 15px;
+    font-weight: 300;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    color: #c6bdbd;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.name-4{
+    width: 146px;
+    height: 28px;
+    font-size:22px ;
+    font-weight:300 ;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.all-img{
+    margin: 0 auto;
+}
